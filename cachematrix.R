@@ -1,7 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
 
-## Makes the inverse from where we will calculate the inverse later
+
+## Makes the matrix from where we will calculate the inverse later
 
 makeCacheMatrix <- function(x = matrix()) {
   inversa <- NULL
